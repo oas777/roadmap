@@ -1,7 +1,5 @@
 # Roadmap initiative
 
-**2025: This is work in progress**
-
 ## Purpose
 The roadmap initiative (with its meeting, repository and project) is to improve transparency, coordination, and collaboration among all stakeholders of the Opencast community. All parts and projects related to Opencast are welcome to participate, regardless of their topic and their size - visibility is key!
 
